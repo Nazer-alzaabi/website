@@ -1,0 +1,16 @@
+    @import url(https://fonts.google.com/specimen/Caprasimo); /*import the font by url*/
+    
+    body.Main-Body{
+    background-color: black; /*background color*/
+}
+/*here i just modifyed the image to be in center*/
+img.main-charcter{
+    border-color: rgb(18, 0, 0);
+    border-radius: 50%; /*This can make any image or element border */
+    margin-left: 1265px;
+    margin-top: 906px;
+    width: 1275px; /*size of image in width */
+    height: 1112px; /*size of image in height*/
+    padding: 60px; /*i think this its should be the range betwheen the text and the image not sure yet*/
+    position:sticky /*idk*/
+}
