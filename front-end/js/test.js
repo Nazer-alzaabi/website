@@ -1,0 +1,1 @@
+document.getElementById(button).style.display = "none" // i dont know what this doing we can say first code in js?
